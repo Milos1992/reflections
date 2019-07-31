@@ -1,3 +1,35 @@
-What happens when you initialize a repository? Why do you need to do it?
+  What happens when you initialize a repository? Why do you need to do it?
 	It creats hidden dir (.git) ,and starts to be visible to git commands. 
+
+
+
+
+  How is the staging area different from the working directory and the repository? 
+   What value do you think it offers?
+
+	It is intermiddle area between working dir and repository , you can add files 
+	in it one by one. When we are ready to commit files from staging area to repo 
+	it bundles files in one commit. 
+
+
+  How can you use the staging area to make sure you have one commit per logical change?
+
+
+	Commiting per file . 
+
+
+  
+
+  What are some situations when branches would be helpful in keeping your history organized?
+   How would branches help?
+
+
+	When we want to try adding some new feature to our code but dont want to risk a bug in 		master branch , or main part of code. So we have that luxury to experiment.
+
+
+
+
+
+
+
 
