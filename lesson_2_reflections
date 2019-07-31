@@ -27,7 +27,9 @@
 	When we want to try adding some new feature to our code but dont want to risk a bug in 		master branch , or main part of code. So we have that luxury to experiment.
 
 
+  How do the diagrams help you visualize the branch structure?
 
+	Its easy to see what commit is last mutural for master and new branch , and which 		commits arent included to new branch.
 
 
 
