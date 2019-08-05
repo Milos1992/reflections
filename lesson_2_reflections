@@ -32,6 +32,13 @@
 	Its easy to see what commit is last mutural for master and new branch , and which 		commits arent included to new branch.
 
 
+  What is the result of merging two branches together? Why do we represent it in the diagram 	    the way we do?
+
+
+	Greating new branch  , with combined commits from two branches . Its easy to see and 
+ 	  orient about when is merge happend and wich commits are included or excluded . 
+
+  	
 
 
 
